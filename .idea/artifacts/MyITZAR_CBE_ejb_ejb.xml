@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="MyITZAR-CBE-ejb:ejb">
+    <output-path>$PROJECT_DIR$/MyITZAR-CBE-ejb/target</output-path>
+    <root id="archive" name="MyITZAR-CBE-ejb.jar">
+      <element id="artifact" artifact-name="MyITZAR-CBE-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyITZAR-CBE-Persistance:war">
+    <output-path>$PROJECT_DIR$/MyITZAR-CBE-Persistance/target</output-path>
+    <root id="archive" name="wildfly-fabric8.war">
+      <element id="artifact" artifact-name="MyITZAR-CBE-Persistance:war exploded" />
+    </root>
+  </artifact>
+</component>

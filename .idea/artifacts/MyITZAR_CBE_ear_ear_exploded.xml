@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="MyITZAR-CBE-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/MyITZAR-CBE-ear/target/MyITZAR-CBE-ear</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyITZAR-CBE-ear/javaeeApplication/JavaEE" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/MyITZAR-CBE-ear/target/MyITZAR-CBE-ear/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/MyITZAR-CBE-ear/src/main/application" />
+      <element id="archive" name="MyITZAR-CBE-web.war">
+        <element id="artifact" artifact-name="MyITZAR-CBE-web:war exploded" />
+      </element>
+      <element id="archive" name="MyITZAR-CBE-ejb.jar">
+        <element id="artifact" artifact-name="MyITZAR-CBE-ejb:ejb exploded" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" output-file-name="slf4j-api.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>

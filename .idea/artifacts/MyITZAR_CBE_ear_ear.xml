@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="MyITZAR-CBE-ear:ear">
+    <output-path>$PROJECT_DIR$/MyITZAR-CBE-ear/target</output-path>
+    <root id="archive" name="MyITZAR-CBE-ear.ear">
+      <element id="artifact" artifact-name="MyITZAR-CBE-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

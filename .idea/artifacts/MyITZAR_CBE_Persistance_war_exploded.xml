@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyITZAR-CBE-Persistance:war exploded">
+    <output-path>$PROJECT_DIR$/MyITZAR-CBE-Persistance/target/wildfly-fabric8</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyITZAR-CBE-Persistance" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/MyITZAR-CBE-Persistance/target/wildfly-fabric8/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="MyITZAR-CBE-Persistance/web/Web" />
+    </root>
+  </artifact>
+</component>

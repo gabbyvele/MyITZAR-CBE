@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyITZAR-CBE.iml" filepath="$PROJECT_DIR$/MyITZAR-CBE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyITZAR-CBE-ear/MyITZAR-CBE-ear.iml" filepath="$PROJECT_DIR$/MyITZAR-CBE-ear/MyITZAR-CBE-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyITZAR-CBE-ejb/MyITZAR-CBE-ejb.iml" filepath="$PROJECT_DIR$/MyITZAR-CBE-ejb/MyITZAR-CBE-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyITZAR-CBE-web/MyITZAR-CBE-web.iml" filepath="$PROJECT_DIR$/MyITZAR-CBE-web/MyITZAR-CBE-web.iml" />
+    </modules>
+  </component>
+</project>
